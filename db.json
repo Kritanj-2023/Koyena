@@ -1,0 +1,77 @@
+{
+    "problems": [
+        {
+            "id" : 1,
+            "name" : "binary search",
+            "level" : "easy",
+            "submission" : "39939"
+        },
+        {
+            "id" : 2,
+            "name" : "Reverse an array in a group",
+            "level" : "medium",
+            "submission" : "399"
+        },
+        {
+            "id" : 3,
+            "name" : "Leder in an array",
+            "level" : "easy",
+            "submission" : "3993"
+        },
+        {
+            "id" : 4,
+            "name" : "Check if two array are equal or not",
+            "level" : "easy",
+            "submission" : "399"
+        },
+        {
+            "id" : 5,
+            "name" : "N-Queen Problem",
+            "level" : "hard",
+            "submission" : "399"
+        },
+        {
+            "id" : 6,
+            "name" : "",
+            "level" : "easy",
+            "submission" : "39"
+        },
+        {
+            "id" : 7,
+            "name" : "Linear search",
+            "level" : "easy",
+            "submission" : "39939"
+        },
+        {
+            "id" : 8,
+            "name" : "Count the number of nodes in a tree",
+            "level" : "hard",
+            "Submission" : "39939"
+        },
+        {
+            "id" : 9,
+            "name" : "LCD",
+            "level" : "medium",
+            "submission" : "39939"
+        },
+        {
+            "id" : 10,
+            "name" : " search",
+            "level" : "medium",
+            "submission" : "39939"
+        },
+        {
+            "id" : 11,
+            "name" : "Cycle Detection",
+            "level" : "hard",
+            "submission" : "39939"
+        },
+        {
+            "id" : 12,
+            "name" : "Shortest path between two nodes",
+            "level" : "hard",
+            "submission" : "39939"
+        }
+
+    ]
+}
